@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Wearable system monitor codelab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Wearable system health dashboard"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "System Monitor"
+    },
+    {
+      "name": "permission_account_reason",
+      "value": "Used to read distributed account sync status for the wearable system monitor."
+    }
+  ]
+}
